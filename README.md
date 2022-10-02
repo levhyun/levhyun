@@ -1,6 +1,4 @@
-### Hi there 👋
-
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaHyun&desc=Designers%20and%20developers%20interested%20in%20servers%20and%20artificial%20intelligence&fontSize=80&animation=twinkling&descAlignY=30
+![header]https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaHyun&desc=Designers%20and%20developers%20interested%20in%20servers%20and%20artificial%20intelligence&fontSize=80&animation=twinkling&descAlignY=30
 
 <!--
 **levhyun/levhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
