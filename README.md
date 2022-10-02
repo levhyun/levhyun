@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&color=0:EEFF00,100:a82da8&height=300&section=header&text=JaHyun&desc=Designers%20and%20developers%20interested%20in%20servers%20and%20artificial%20intelligence&fontSize=80&animation=twinkling&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaHyun&desc=Designers%20and%20developers%20interested%20in%20servers%20and%20artificial%20intelligence&fontSize=80&animation=twinkling&descAlignY=30)
