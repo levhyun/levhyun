@@ -1,6 +1,6 @@
 ### Hello, I am Kujahyun, a backend developer.
 
-I enjoy learning new backend technologies. 🧐
+I enjoy learning new backend technologies. 🧐  
 For Coffee Chat, please contact [email](mailto:g88080997@gmail.com) or [Linkedin](https://www.linkedin.com/in/%EC%9E%90%ED%98%84-%EA%B5%AC-358340327/).  
 
 ### Career
